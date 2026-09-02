@@ -1,4 +1,4 @@
-# 🤖 AI Multi-Agent Workflow Dashboard
+# 🤖 AI Multi-Agent Platform Dashboard
 
 > **Live Demo:** [ai-multi-agent-workflow.onrender.com](https://ai-multi-agent-workflow.onrender.com)
 
